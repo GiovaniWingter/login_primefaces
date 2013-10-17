@@ -1,4 +1,4 @@
-LOGIN JSF
+LOGIN PRIMEFACES
 ==========
 
 Exemplo de Login utilizando:
@@ -6,7 +6,7 @@ JSF;
 SQL SERVER;
 Criptografia;
 Filter - controle de autenticação utilizando variável de sessão
-
+INTERFACE E MENSAGENS UTILIZANDO PRIMEFACES
 
 Lembre-se de:
 
